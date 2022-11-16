@@ -1,0 +1,15 @@
+.socials {
+    display: flex;
+}
+
+.socials__icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    fill: #B3B3B3;
+    cursor: pointer;
+}
+
+.socials__icon:hover {
+    fill: #000;
+}
